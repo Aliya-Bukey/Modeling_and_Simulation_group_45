@@ -1,6 +1,6 @@
 # Cooking Process
 
-Group: **Cooking Team**
+Group: **45**
 Course: Modeling and Simulation, TU Wien
 
 ## Idea
