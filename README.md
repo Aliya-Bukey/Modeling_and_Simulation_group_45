@@ -14,16 +14,3 @@ Simulation of a cooking recipe (tasks, resources, prerequisites) and search for 
 - Student 3
 - Student 4
 
-## Structure
-
-- `src/` - code
-- `recipes/` - recipes as JSON files
-- `results/` - figures
-- `report/` - report
-
-## Run
-
-```bash
-pip install -r requirements.txt
-python src/simulation.py recipes/test_recipe.json
-```
